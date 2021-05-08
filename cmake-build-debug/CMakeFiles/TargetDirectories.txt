@@ -1,0 +1,3 @@
+C:/Users/AVAJANG/CLionProjects/BattleShip/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/AVAJANG/CLionProjects/BattleShip/cmake-build-debug/CMakeFiles/BattleShip.dir
+C:/Users/AVAJANG/CLionProjects/BattleShip/cmake-build-debug/CMakeFiles/edit_cache.dir
